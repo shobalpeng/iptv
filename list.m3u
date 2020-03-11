@@ -126,11 +126,11 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 
 #央视频
 #EXTINF:-1 tvg-id="80" tvg-name="CCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="央视频",CCTV4K
-http://121.12.105.164/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+http://14.215.58.34/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1
-http://121.12.105.164/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+http://14.215.58.34/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频",CCTV2
-http://121.12.105.164/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+http://14.215.58.34/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频",CCTV3
 http://121.12.105.164/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频",CCTV4
